@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of ulimit.
 
+## 0.1.5:
+
+* Add the rest of the standard limits options. Also added a prefix option to force order of loading.
+
 ## 0.1.4:
 
 * Does not set any ulimit parameter by default - only when specified. Thanks to Graham Christensen (https://github.com/zippykid)
